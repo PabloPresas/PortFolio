@@ -87,7 +87,7 @@ header{
 }
 .proyectos{
     width: 60%;
-    margin-bottom: 5px;
+    /*margin-bottom: 5px;*/
     display: flex;
     justify-content: space-between;
 }
